@@ -1,5 +1,17 @@
 .App {
+  margin: 20px auto;
+  border: 1px solid blue;
+  width: 400px;
   text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.wrapper {
+  text-align: left;
 }
 
 .App-logo {
